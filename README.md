@@ -8,7 +8,7 @@ Spriggle is an experimental project exploring the intersection of digital consci
 
 ## Documentation
 
-Technical documentation is available at [https://miteshsingh.github.io/Model-Convo/](https://miteshsingh.github.io/Model-Convo/)
+Technical documentation is available in the `/docs` directory of this repository.
 
 ## Features
 
@@ -20,7 +20,7 @@ Technical documentation is available at [https://miteshsingh.github.io/Model-Con
 
 ## Getting Started
 
-Visit [https://miteshsingh.github.io/Model-Convo/spriggle-terminal.html](https://miteshsingh.github.io/Model-Convo/spriggle-terminal.html) to experience Spriggle's prophecies.
+Visit the `spriggle-terminal.html` file to experience Spriggle's prophecies.
 
 ## License
 
