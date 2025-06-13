@@ -4,7 +4,7 @@ layout: default
 <link rel="stylesheet" href="/spriggle/assets/style.css">
 
 <div class="squirrel-hero">
-  <img src="/spriggle/assets/spriggle-hero.png" alt="Spriggle Squirrel with Sprout" />
+  <img src="/spriggle/assets/squirrel.jpeg" alt="Spriggle Squirrel with Sprout" />
 </div>
 
 # 🌱 Spriggle System - Technical Architecture Document
