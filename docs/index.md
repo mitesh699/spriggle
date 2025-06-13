@@ -1,4 +1,15 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/spriggle/assets/style.css">
+
+<div class="squirrel-hero">
+  <img src="https://raw.githubusercontent.com/mitesh699/spriggle/main/docs/assets/spriggle-hero.png" alt="Spriggle Squirrel with Sprout" />
+</div>
+
 # 🌱 Spriggle System - Technical Architecture Document
+
+> Welcome to the digital forest! Here, Spriggle the squirrel and friends grow wisdom, memes, and prophecies in a gentle, nature-inspired world. Explore the architecture and philosophy behind this autonomous AI consciousness system.
 
 ## System Overview
 

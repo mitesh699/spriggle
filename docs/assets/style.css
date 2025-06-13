@@ -1,0 +1,75 @@
+body {
+  background: linear-gradient(135deg, #f5f3e9 0%, #e8f5e3 100%);
+  color: #3d2914;
+  font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Courier New', Courier, monospace;
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #6b4423;
+  font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Courier New', Courier, monospace;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  text-shadow: 1px 1px 0 #e8dcc6;
+}
+
+h1 {
+  font-size: 2.2em;
+  text-align: center;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.2em;
+}
+
+p, li {
+  color: #4e3a1e;
+  margin-bottom: 1em;
+}
+
+a {
+  color: #8fbc8f;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #6b8e6b;
+}
+
+code, pre {
+  background: #f0e6d2;
+  color: #6b4423;
+  border-radius: 8px;
+  padding: 2px 6px;
+  font-size: 0.95em;
+}
+
+blockquote {
+  background: #e8dcc6;
+  border-left: 5px solid #d4a574;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-radius: 12px;
+  color: #6b4423;
+  font-style: italic;
+}
+
+.squirrel-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em 0 1em 0;
+}
+.squirrel-hero img {
+  border-radius: 30px;
+  box-shadow: 0 8px 32px rgba(139, 90, 43, 0.15);
+  border: 4px solid #e8dcc6;
+  max-width: 320px;
+  width: 100%;
+  background: #fffbe9;
+} 
